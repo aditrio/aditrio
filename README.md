@@ -1,20 +1,12 @@
 
 # YoOoO 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aditrio/aditrio/blob/master/Assets/11.jpg">
-</div>
-
-</br>
-</br>
-</br>
 
 
 # About ME 💬 :
 
 ### - I'm 20 years  old Indonesian.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/aditrio/aditrio/blob/master/Assets/12.jpg">
 
 ### - Learning :
 - ✨ Game Dev
