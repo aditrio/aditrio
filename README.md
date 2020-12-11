@@ -10,7 +10,6 @@
 
 ### - Learning :
 - ✨ Game Dev
-- ✨ Data Science
 - ✨ Python
 - ✨ C/C++
 - ✨ Web Dev
