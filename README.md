@@ -1,56 +1,7 @@
 
-# YoOoO 👋
+# About Me :
 
-
-
-# About ME 💬 :
-
-### - I'm 20 years  old Indonesian.
-
-
-### - Learning :
-- ✨ Game Dev
-- ✨ Python
-- ✨ C/C++
-- ✨ Web Dev
-
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Coding
-
-
-</br>
-</br>
-</br>
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/aditrio/aditrio/blob/master/Assets/13.jpg">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:30noadi@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/adi-triyono-100500/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
+ Hi I'm Aditry I am a college student at UIN SGD Bandung in Informatics Engineering.I am a highly motivational person and i believe with my quick learning abilities  and responsibility at work. I am able to work individually or work with team.
 
 ## Stats
 *************
