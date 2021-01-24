@@ -1,7 +1,7 @@
 
 # About Me :
 
- Hi I'm Aditry I am a college student at UIN SGD Bandung in Informatics Engineering.I am a highly motivational person and i believe with my quick learning abilities  and responsibility at work. I am able to work individually or work with team.
+ Hi I'm Aditry Nice to meet you !
 
 ## Stats
 *************
