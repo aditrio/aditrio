@@ -2,6 +2,7 @@
 # About Me :
 
  Hi I'm Aditry Nice to meet you !
+ I hate Coding
 
 ## Stats
 *************
