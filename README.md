@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">👨‍💻 Portfolio : https://aditrio.github.io</p>
+<p align="left">👨‍💻 Portofolio : https://aditrio.github.io</p>
 
 ###
 
