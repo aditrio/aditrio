@@ -9,15 +9,15 @@
 <p align="left">👨‍💻 All of my projects are available at https://aditrio.github.io</p>
 
 ###
- _______________________________
+
 <h3 align="left">💻 Tech Stack:</h3>
+<img align="right" height="150" src="https://c.tenor.com/k_S6yv0R7cQAAAAd/tenor.gif"  />
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 
-  |<img align="right" height="150" src="https://c.tenor.com/k_S6yv0R7cQAAAAd/tenor.gif"  />
 
 
-###
+
 
 ###
 <h3 align="left"> 📱 Socials:</h3>
