@@ -33,3 +33,5 @@
 <img align="right" height="150" src="https://c.tenor.com/k_S6yv0R7cQAAAAd/tenor.gif"  />
 
 ###
+
+[![](https://visitcount.itsvg.in/api?id=aditrio&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
