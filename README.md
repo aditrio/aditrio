@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">👨‍💻 Detail of my profile are available at https://aditrio.github.io</p>
+<p align="left">👨‍💻 Portfolio : https://aditrio.github.io</p>
 
 ###
 
