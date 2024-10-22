@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at [https://aditrio.github.io](https://aditrio.github.io)</p>
+<p align="left">👨‍💻 All of my projects are available at https://aditrio.github.io</p>
 
 ###
 
